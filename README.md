@@ -1,6 +1,6 @@
 
 
-# Recommendation For Microsoft's Original Film Contect
+# Recommendation For Microsoft's Original Film Content
 
 **Author**: [Benjamin Jaron](mailto:bmjaron@gmail.com)
 
