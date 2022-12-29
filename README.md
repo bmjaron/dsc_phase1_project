@@ -6,7 +6,7 @@
 
 ## Overview 
 
-This project analyzes several movie data files in order to help Microsoft develop profitable content. The analysis below will demonstrate the need to invest heavily in order to make a profitable film, that Jason Blum is the film producer most likely to guarantee success, and that horror and its subsets is a lucrative genre.
+This project analyzes several movie data files in order to help Microsoft develop profitable content. The analysis below will demonstrate the need to invest heavily in order to make a profitable film, that Jason Blum is the film producer most likely to guarantee success, and that horror and its subsets are a lucrative genre.
 
 ## Business Problem
 
